@@ -697,7 +697,12 @@
     "contact": {}
   },
   "tags": [],
-  "servers": [],
+  "servers": [
+    {
+      "url": "https://qaapi.hoonr.ai",
+      "description": "QA"
+    }
+  ],
   "components": {
     "securitySchemes": {
       "token": {
